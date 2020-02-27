@@ -10,3 +10,5 @@ def main():
       break
     else:
       print("RFC incorrecto. Intenta de nuevo.")
+
+#se hace uso del if y else para realizar una validacion la cual reaccionara como falsa hasta no tener el dato correcto 

@@ -1,7 +1,6 @@
 import datetime
 
 def main():
-
  strDato = input("Dame un dato de tipo string: ")
  _iDato = input("Dame un dato de tipo entero: ")
  iDato = int(_iDato)
@@ -27,3 +26,4 @@ def main():
  print(dtDato)
  print(type(dtDato))
 
+#ocupamos 4 tipos de datos (string,int,float,date) todo esto para poder obtener informacion del usuario, los datos fueron preguntados por orden de fecha nacimiento, mes y dia.
